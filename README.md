@@ -1,6 +1,6 @@
 # PyData London 93rd Meetup Talk
 
-Resources, Links & Slides for PyData!
+Resources, Links & Slides for PyData.
 
 ## Resources & Links
 
@@ -8,7 +8,7 @@ Want to learn more?
 
 - Great lesson by 3B1B on Attention (very simple): https://www.3blue1brown.com/lessons/attention
 
-- Attention Is All You Need Paper (Important): https://arxiv.org/abs/1706.03762
+- Attention Is All You Need Paper: https://arxiv.org/abs/1706.03762
 
 - Vision Transformer Paper: https://arxiv.org/abs/2010.11929
 
