@@ -21,7 +21,11 @@ https://github.com/OguzhanCOG/EnhanceFX
 
 ## Codes / Models
 
+I can't give EnhanceFX models, but I have pushed an excellent HAT-based pretrained model to complement the ESRGAN one.
 
+The GUI I used is 'chaiNNer': https://chainner.app/ | https://github.com/chaiNNer-org/chaiNNer
+
+Been using chaiNNer since release, and I recommend it over many other utilities out there!
 
 ## Slides
 
