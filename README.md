@@ -36,3 +36,11 @@ Find the slides in the root of this repo, or ask the PyData team!
 
 Parameter size for dense connections & MoE-based is publically accessible for all! See GitHub page!
 I have answered questions about SSIM/PSNR, dataset collection (Nomos8K), and downsampling too.
+
+## Feedback / Research / Opportunities
+
+Ready to take on feedback, to do better next time. Alternatively, use my LinkTree Feedback Form. Much appreciated in advance.
+
+**Always** down to chat with like-minded people, building awesome stuff. Sounds like you? Is your company in need? Drop me a line. Happy to help.
+
+Contact: motions.07-busses@icloud.com
